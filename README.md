@@ -57,14 +57,12 @@
 
 ---
 
-### 🐍 Contribution Snake
+### 📈 Aktivitas Kontribusi
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/muhammadrifaii/muhammadrifaii/output/github-contribution-grid-snake.svg" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadrifaii&theme=react-dark&hide_border=true&area=true" width="100%" />
 </p>
-
-> *Catatan: animasi ular di atas butuh setup GitHub Action (`snk` action) supaya jalan otomatis — aku bisa bantu buatin workflow-nya kalau mau.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" width="100%"/>
 
-<p align="center">✨ Thanks for stopping by! ✨</p>
+<p align="center">✨ Terima kasih sudah mampir! ✨</p>
