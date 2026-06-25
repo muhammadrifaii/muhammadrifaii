@@ -1,7 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Muhammad%20Rifa'i&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mobile%20%26%20Web%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
+<h2 align="center">👋 Halo, saya Muhammad Rifa'i!</h2>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Build+fast.+Break+things.+Fix+them+faster.;Flutter+%7C+Next.js+%7C+UI%2FUX+Enthusiast;Currently+brewing+something+new+%E2%98%95&font=Fira%20Code&center=true&width=600&height=40&color=58A6FF&vCenter=true&size=20&pause=1500" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Ngoding+dulu%2C+mikir+belakangan+%F0%9F%98%84;Flutter+%7C+Next.js+%7C+UI%2FUX+Enthusiast;Sedang+meracik+sesuatu+yang+baru+%E2%98%95&font=Fira%20Code&center=true&width=600&height=40&color=58A6FF&vCenter=true&size=20&pause=1500" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -9,12 +11,12 @@
   <img src="https://img.shields.io/github/followers/muhammadrifaii?label=Followers&style=flat-square&color=blue" />
 </p>
 
-> *"Code is like humor. When you have to explain it, it's bad."* 😄
+> *"Kalau kode harus dijelaskan biar lucu, berarti kodenya emang jelek."* 😄
 
-- 💡 Passionate about crafting mobile apps and building modern web experiences.
-- 🌱 Currently exploring Flutter, Next.js, and UI/UX design principles.
-- 🎯 Goal: Deliver smooth user experiences, grow as a full-stack developer, and build apps that people love to use.
-- ⚡ Fun fact: I debug better with coffee in hand ☕
+- 💡 Suka banget bikin aplikasi mobile dan web modern yang nyaman dipakai.
+- 🌱 Lagi eksplorasi Flutter, Next.js, dan prinsip UI/UX design.
+- 🎯 Goal: kasih pengalaman pengguna yang smooth, jadi full-stack developer, dan bikin aplikasi yang orang-orang suka pakai.
+- ⚡ Fun fact: debugging lebih lancar kalau ada kopi di samping ☕
 
 ---
 
@@ -30,7 +32,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Statistik GitHub
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=muhammadrifaii&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
@@ -39,7 +41,7 @@
 
 ---
 
-### 🌍 Find me around the web
+### 🌍 Temukan saya di sini
 
 <p align="left">
   <a href="https://linkedin.com/in/USERNAME-LINKEDIN" target="_blank">
