@@ -57,6 +57,16 @@
 
 ---
 
+
+### 🐍 Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/muhammadrifaii/muhammadrifaii/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</p>
+
+
+---
+
 ### 📈 Aktivitas Kontribusi
 
 <p align="center">
