@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Muhammad%20Rifa'i&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mobile%20%26%20Web%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Muhammad%20Rifa%27i&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mobile%20%26%20Web%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <h2 align="center">👋 Halo, saya Muhammad Rifa'i!</h2>
 
