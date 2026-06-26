@@ -1,5 +1,3 @@
-
-
 <h2 align="center">👋 Halo, saya Muhammad Rifa'i!</h2>
 
 <p align="center">
@@ -35,7 +33,7 @@
 ### 📊 Statistik GitHub
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=muhammadrifaii&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=muhammadrifaii&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadrifaii&layout=compact&theme=radical&hide_border=true" />
 </p>
 
@@ -57,13 +55,11 @@
 
 ---
 
-
 ### 🐍 Snake Animation
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/muhammadrifaii/muhammadrifaii/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
-
 
 ---
 
